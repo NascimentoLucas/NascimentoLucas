@@ -15,6 +15,10 @@ Aqui estão algumas das tecnologias que uso diariamente:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Projetos
+- [Perfect Slime](https://play.google.com/store/apps/details?id=com.zumstudios.perfectslime&hl=en)
+- [Monicaverso](https://play.google.com/store/apps/details?id=air.br.com.mauriciodesousa.caixadequadrinhos&hl=pt)
+
 ## 🛠️ O que estou Aprendendo
 
 - Atualmente estou buscando aumentar meu conhecimento e experiência com back-end, para ser capaz de lidar com maiores responsabilidades.
@@ -26,9 +30,9 @@ Aqui estão algumas das tecnologias que uso diariamente:
 
 ## 🤖 Sobre Mim
 
-- ♥ Eu adoro explorar novas tecnologias e desenvolver soluções criativas, como: [Arduino com sensor de movimento](https://github.com/NascimentoLucas/CabideArduino).
-- 🍻 Claro que gosto muito de jogos, principalmente de gerenciamento, o que me leva até usar o git alguma vezes [Screeps](https://github.com/NascimentoLucas/Screeps) e criar planilhas hihi.
-- 📚 Adoro ler também, principalmente fantasia ou ficção, me dão muita ideas de mecânicas :D.
+- Eu adoro explorar novas tecnologias como esse projeto no arduino: [Arduino com sensor de movimento](https://github.com/NascimentoLucas/CabideArduino).
+- Claro que gosto muito de jogos, principalmente de gerenciamento, o que me leva até usar o git alguma vezes [Screeps](https://github.com/NascimentoLucas/Screeps) e criar planilhas hihi.
+- Adoro ler também, principalmente fantasia ou ficção, me dão muita ideas de mecânicas :D.
 
 ---
-Sinta-se à vontade para dar uma olhada nos meus repositórios e me chamar!
+Sinta-se à vontade para dar uma olhada nos meus repositórios e me chamar :).
