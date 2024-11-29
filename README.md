@@ -15,9 +15,12 @@ Aqui estão algumas das tecnologias que uso diariamente:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projetos
+## 💼 Trabalhos
 - [Perfect Slime](https://play.google.com/store/apps/details?id=com.zumstudios.perfectslime&hl=en)
 - [Monicaverso](https://play.google.com/store/apps/details?id=air.br.com.mauriciodesousa.caixadequadrinhos&hl=pt)
+
+## 📂 Projetos Pessoais
+- [Simulação de GPU](https://github.com/NascimentoLucas/PythonGPUSimulation)
 
 ## 🛠️ O que estou Aprendendo
 
