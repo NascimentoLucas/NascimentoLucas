@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias que uso diariamente:
 ## 💬 Onde me Encontrar
 
 - LinkedIn: [https://www.linkedin.com/in/lucas-marcio/](https://www.linkedin.com/in/lucas-marcio/)
-- Email: [devlucasnascimento@gmail.com](devlucasnascimento@gmail.com)
+- Email: devlucasnascimento@gmail.com
 
 ## 🤖 Sobre Mim
 
