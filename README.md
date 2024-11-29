@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas 👋
+# Olá! Eu sou o Lucas 👋
 
 Sou formado em Jogos Digitais pela IFRJ e atuo no mercado desde 2020 como desenvolvedor Unity3D. Durante a graduação, adquiri experiência não só em programação, mas também em áreas como design e gestão de tempo, o que me possibilita uma boa comunicação em equipe. Uso essa habilidade para contribuir com o projeto, criando ferramentas que facilitam a implementação de novas mecânicas, o balanceamento do jogo e a gestão de assets.
 
@@ -26,9 +26,9 @@ Aqui estão algumas das tecnologias que uso diariamente:
 
 ## 🤖 Sobre Mim
 
-- ♥ Eu adoro explorar novas tecnologias e desenvolver soluções criativas, como: [CabideArduino com sensor de movimento](https://github.com/NascimentoLucas/CabideArduino).
+- ♥ Eu adoro explorar novas tecnologias e desenvolver soluções criativas, como: [Arduino com sensor de movimento](https://github.com/NascimentoLucas/CabideArduino).
 - 🍻 Claro que gosto muito de jogos, principalmente de gerenciamento, o que me leva até usar o git alguma vezes [Screeps](https://github.com/NascimentoLucas/Screeps) e criar planilhas hihi.
-- 📚 Adoro ler também, pricipalmente fantasia ou ficção, me dão muita ideas de mecânicas :D.
+- 📚 Adoro ler também, principalmente fantasia ou ficção, me dão muita ideas de mecânicas :D.
 
 ---
-Sinta-se à vontade para dar uma olhada nos meus repositórios e me chamar caso queira colaborar ou bater um papo!
+Sinta-se à vontade para dar uma olhada nos meus repositórios e me chamar!
