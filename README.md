@@ -27,7 +27,7 @@ Aqui estão algumas das tecnologias que uso diariamente:
 ## 🤖 Sobre Mim
 
 - ♥ Eu adoro explorar novas tecnologias e desenvolver soluções criativas, como: [CabideArduino com sensor de movimento](https://github.com/NascimentoLucas/CabideArduino).
-- 🍻 Claro que gosto muito de jogos, principalmente de gerenciamento, o que me leva até usar o git alguma vezes [Screeps](https://github.com/NascimentoLucas/Screeps) e criar planilhas ts.
+- 🍻 Claro que gosto muito de jogos, principalmente de gerenciamento, o que me leva até usar o git alguma vezes [Screeps](https://github.com/NascimentoLucas/Screeps) e criar planilhas hihi.
 - 📚 Adoro ler também, pricipalmente fantasia ou ficção, me dão muita ideas de mecânicas :D.
 
 ---
